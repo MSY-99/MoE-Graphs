@@ -7,7 +7,7 @@ from torch_geometric.nn import GINConv
 
 class MoELinearTopk(nn.Module):
     """
-    Switch Transformer-style Top-1 Routing MoE Linear layer.
+    Top-k Routing MoE Linear layer.
 
     - Router: Linear(in_dim -> E) followed by Softmax.
     - Assignment: Top-1 routing via argmax, with maximum capacity per expert 
