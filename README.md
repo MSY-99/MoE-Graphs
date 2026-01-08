@@ -1,6 +1,6 @@
-# Paper Title
+# Exploring Mixture-of-Experts in Graph Neural Networks: From Component Design to Representation Space Analysis
 
-This repository provides ~~
+This repository provides the official implementation of our systematic study on integrating Mixture-of-Experts (MoE) into Graph Neural Networks (GNNs).
 
 ## Installation
 
