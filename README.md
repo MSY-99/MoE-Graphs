@@ -1,4 +1,4 @@
-# Exploring Mixture-of-Experts in Graph Neural Networks: From Component Design to Representation Space Analysis
+# When GNNs Meet MoE: From Structural Design to Representation-level Analysis
 <img width="2814" height="1635" alt="image" src="https://github.com/user-attachments/assets/1375a5cb-e15c-454c-b54d-1cb0b213a01c" />
 
 ## Mixture-of-Experts for Graph Neural Networks
