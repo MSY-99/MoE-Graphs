@@ -1,4 +1,5 @@
 # When GNNs Meet MoE: From Structural Design to Representation-level Analysis
+ICPR 2026 paper: https://link.springer.com/chapter/10.1007/978-3-032-31930-2_36
 <img width="2814" height="1635" alt="image" src="https://github.com/user-attachments/assets/1375a5cb-e15c-454c-b54d-1cb0b213a01c" />
 
 ## Mixture-of-Experts for Graph Neural Networks
